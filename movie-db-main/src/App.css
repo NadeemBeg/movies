@@ -1,0 +1,34 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #81D4FA;
+}
+
+.home_bg {
+    height: 100vh;
+}
+
+.searchDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.searchDiv1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputWrapper svg {
+    margin-left: -20px;
+}
+
+.inputWrapper input {
+    padding: 0px 15px;
+}
